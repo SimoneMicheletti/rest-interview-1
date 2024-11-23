@@ -1,0 +1,5 @@
+#.env // di solito non committo l'env :)
+vendor
+cache/*
+!cache/.gitkeep
+.phpunit.cache
